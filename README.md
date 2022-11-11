@@ -1,4 +1,10 @@
-<iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l">via GIPHY</a></p>
+<div id="header" align="center">
+    <img src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="200" />
+    <h1 align="center">Hi 👋, I'm YouDevs</h1>
+    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
+        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
+        YouDevs.</h3>
+</div>
 
 ### Hi there 👋
 <div align="left">
