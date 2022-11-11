@@ -4,10 +4,10 @@
     <h3 align="center">Apassionate junior developer from Argentina <i class=""></i></h3>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.twitch.tv/chpdev" target="_blank">
+    <!- <a href="https://www.twitch.tv/chpdev" target="_blank">
         <img src="https://img.shields.io/twitch/status/chpdev?style=social"
             alt="Twitch Badge" />
-    </a>
+    </a> ->
       <a href="https://www.linkedin.com/in/enahuelrodriguez/" target="_blank">
         <img src="https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fenahuelrodriguez%2F"
             alt="Linkedin Badge" />
