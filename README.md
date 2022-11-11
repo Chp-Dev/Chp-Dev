@@ -13,6 +13,18 @@
             alt="Linkedin Badge" />
     </a>
 </div>
+### 👨‍💻 About Me :
+
+-👨🎓 I am a Middle Level History Teacher.
+
+-💻 I am currently taking the Certified Tech Developer course at 
+     Digital House
+
+-📫 How to contact me enahuelrodriguez18@gmail.com
+
+-🌱 I am currently learning Java, Spring Boot 
+
+
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -34,8 +46,8 @@
 ---
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChpDev&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChpDev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChpDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
