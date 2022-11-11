@@ -1,12 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+    <h1 align="center">Hi 👋, I'm Chp-Dev</h1>
+    <h3 align="center">Apassionate junior developer from Argentina</h3>
 </div>
-
-### Hi there 👋
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -23,7 +19,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
        
       </div>
-</div>
 
 ---
 ### 📊 My Stats :
