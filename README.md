@@ -8,6 +8,11 @@
         <img src="https://img.shields.io/twitch/status/chpdev?style=social"
             alt="Twitch Badge" />
     </a>
+      <a href="https://www.linkedin.com/in/enahuelrodriguez/" target="_blank">
+        <img src="https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fenahuelrodriguez%2F"
+            alt="Linkedin Badge" />
+    </a>
+</div>
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
