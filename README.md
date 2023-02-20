@@ -13,8 +13,9 @@
             alt="Linkedin Badge" />
     </a>
 </div>
+
 ### 👨‍💻 About Me :
-<br>
+
 
 -👨🎓 I am a Middle Level History Teacher.
 
